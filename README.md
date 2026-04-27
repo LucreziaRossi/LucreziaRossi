@@ -1,17 +1,30 @@
-- 👋 Hi, I’m @LucreziaRossi
-- 🎓 I'm currently pursuing a Master's degree in **Physics of Data** at the University of Padua, after earning my Bachelor's in **Astronomy**. I’m passionate about turning data into insights through programming, analysis, and visualization.
-- 👀 Interests
-    - Data Science & Machine Learning
-    - Game Theory & Decision Systems
-    - Astronomy & Astrophysics
-    - Data Visualization
-    - Python & Open Source
+# 👋 Hi, I'm Lucrezia Rossi
 
-- 📫 How to reach me: lucrezia.rossi.2@studenti.unipd.it
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love working with **astronomical data** and building **mathematical simulations** to explain how systems behave — from galaxies to strategies in competitive games!
+🎓 I hold a **MSc in Physics of Data** from the University of Padua (2025),
+following a **BSc in Astronomy** from the same institution.
+My research sits at the intersection of mathematical modelling,
+statistical inference, and data-driven analysis of complex systems.
 
-<!---
-LucreziaRossi/LucreziaRossi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📄 I have a peer-reviewed publication at **IEEE MetroInd4.0 & IoT 2025**
+on information freshness in non-terrestrial communication networks.
+[DOI: 10.1109/MetroInd4.0IoT66048.2025.11122097](https://doi.org/10.1109/MetroInd4.0IoT66048.2025.11122097)
+
+## 👀 Interests
+- Statistical Inference & Bayesian Methods
+- Game Theory & Decision Systems  
+- Network Science & Complex Systems
+- Astronomy & Astrophysics
+- Machine Learning
+
+## 🛠️ Skills
+`Python` `NumPy` `PyTorch` `SQL` `Julia` `Git` `LaTeX`
+
+## 📫 Reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/lucrezia-rossi-17570b311)
+✉️ lucreziadj@gmail.com
+
+😄 **Pronouns:** She/Her
+
+⚡ **Fun fact:** I love working with astronomical data and building
+mathematical simulations to explain how systems behave —
+from galaxies to strategies in competitive games!
