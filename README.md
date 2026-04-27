@@ -3,7 +3,7 @@
 🎓 I hold a **MSc in Physics of Data** from the University of Padua (2025),
 following a **BSc in Astronomy** from the same institution.
 My research sits at the intersection of mathematical modelling,
-statistical inference, and data-driven analysis of complex systems.
+statistical inference and data-driven analysis of complex systems.
 
 📄 I have a peer-reviewed publication at **IEEE MetroInd4.0 & IoT 2025**
 on information freshness in non-terrestrial communication networks.
@@ -17,7 +17,7 @@ on information freshness in non-terrestrial communication networks.
 - Machine Learning
 
 ## 🛠️ Skills
-`Python` `NumPy` `PyTorch` `SQL` `Julia` `Git` `LaTeX`
+`Python` `NumPy` `PyTorch` `SQL` `Git` `LaTeX`
 
 ## 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/lucrezia-rossi-17570b311)
